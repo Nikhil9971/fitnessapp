@@ -1,4 +1,5 @@
-# fitnessapp
+# Fitness-App
+
 • Used Rapid API to get data about different exercises.
 
 • The website contains GIFs of the exercises so that the user can have a visual understanding of the exercise
